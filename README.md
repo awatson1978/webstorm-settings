@@ -11,7 +11,7 @@ WebStorm > File > Import Settings
 
 
 Implements settings from the Meteor Cookbook.  
-https://github.com/awatson1978/meteor-cookbook/blob/master/webstorm.md
+https://github.com/awatson1978/meteor-cookbook/blob/master/cookbook/webstorm.md  
 
 ------------------------
 ### Todo List
